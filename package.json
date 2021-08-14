@@ -1,0 +1,16 @@
+{
+  "name": "zip-snowpack-plugin",
+  "version": "1.0.0",
+  "description": "Snowpack plugin to zip files.",
+  "main": "index.js",
+  "repository": "https://github.com/alexcui03/zip-snowpack-plugin",
+  "author": "Alex Cui <cuizhihui030925@outlook.com>",
+  "license": "MIT",
+  "keywords": [
+    "snowpack",
+    "zip"
+  ],
+  "dependencies": {
+    "jszip": "^3.7.1"
+  }
+}
